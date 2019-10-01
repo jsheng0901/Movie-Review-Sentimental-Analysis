@@ -14,3 +14,17 @@ In this project some of the text data is ambiguous. I try to clean the text data
 
 ## 2.Enviorment and Packages
 
+This project use following packages:
+
+*  numpy
+*  pandas
+*  matplotlib
+*  seaborn
+*  scipy
+*  sklearn
+*  keras
+
+## Significance and Approach
+
+
+

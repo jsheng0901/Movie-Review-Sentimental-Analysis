@@ -1,6 +1,6 @@
 # Movie-Review-Sentimental-Analysis
 
-## 1.Introduction
+## 1. Introduction
 
 This project is focus on muti labels classification by applying NLP model on review text dataset.
 
@@ -12,7 +12,7 @@ Obstacles like sentence negation, sarcasm, terseness, language ambiguity, and ma
 In this project some of the text data is ambiguous. I try to clean the text data before applying different NLP models. 
 
 
-## 2.Enviorment and Packages
+## 2. Enviorment and Packages
 
 This project use following packages:
 
@@ -24,7 +24,7 @@ This project use following packages:
 *  sklearn
 *  keras
 
-## 3.Significance and Approach
+## 3. Significance and Approach
 
 
 
